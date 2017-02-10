@@ -281,3 +281,12 @@ a:after {
 sm {
 	font-size: 12px;
 }
+
+ #intro a{color: #fff}
+ span{margin-right: 3%}
+ .row a{color: #00b7ee}
+ h1, h2, h3, h4, h5, h6 {
+	 font-family:'Open Sans', sans-serif;
+	 color: #333;
+ }
+ h5{font-size: 17px;margin-top: 0px}
