@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6d6c2a2-08e1-41a4-bd89-e0c10d31c3b8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7-cool-class.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog-post.html" afterPath="$PROJECT_DIR$/1-mingtu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/portfolio-thumb-2.jpg" afterPath="$PROJECT_DIR$/images/portfolio/portfolio-thumb-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/portfolio-thumb-3.jpg" afterPath="$PROJECT_DIR$/images/portfolio/portfolio-thumb-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/portfolio-thumb-4.jpg" afterPath="$PROJECT_DIR$/images/portfolio/portfolio-thumb-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/portfolio-thumb-5.jpg" afterPath="$PROJECT_DIR$/images/portfolio/portfolio-thumb-5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1-mingtu.html" afterPath="$PROJECT_DIR$/1-mingtu.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,9 +23,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="46" column="54" lean-forward="true" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
-              <folding />
+            <state relative-caret-position="230">
+              <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="66" selection-end-column="14" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,9 +45,11 @@
       <file leaf-file-name="1-mingtu.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1-mingtu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="58" column="42" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="284">
+              <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,8 +69,8 @@
       <list>
         <option value="$PROJECT_DIR$/cool-class.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/1-mingtu.html" />
         <option value="$PROJECT_DIR$/7-cool-class.html" />
+        <option value="$PROJECT_DIR$/1-mingtu.html" />
       </list>
     </option>
   </component>
@@ -201,12 +197,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486694142811</updated>
-      <workItem from="1486694145716" duration="3057000" />
+      <workItem from="1486694145716" duration="3196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3057000" />
+    <option name="totallyTimeSpent" value="3196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="23" width="1233" height="777" extended-state="6" />
@@ -249,14 +245,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="46" column="54" lean-forward="true" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7-cool-class.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="577">
@@ -265,11 +253,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="66" selection-end-column="14" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1-mingtu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="58" column="42" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="284">
+          <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
