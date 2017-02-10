@@ -195,9 +195,7 @@ footer .social a i{
     position: relative;
     margin-left: 220px;
 }
-#container section {
-    padding: 60px;
-}
+
 #container section {
     background: #f7f8f9;
 }
@@ -450,14 +448,6 @@ footer .social a i{
 }
 
 /* ====== Portfolio ====== */
- .portfolio {
-    padding-top: 60px;
-    padding-bottom: 80px;
-    background: #F4F4F4;
-}
-.portfolioContainer {
-    padding: 20px;
-}
 .portfolio .portfolio-item {
     opacity: 0;
     display: none;
