@@ -84,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/resume.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
-              <caret line="174" column="50" lean-forward="false" selection-start-line="174" selection-start-column="50" selection-end-line="174" selection-end-column="50" />
+              <caret line="178" column="73" lean-forward="false" selection-start-line="178" selection-start-column="73" selection-end-line="178" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -401,12 +401,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486694142811</updated>
-      <workItem from="1486694145716" duration="28942000" />
+      <workItem from="1486694145716" duration="30203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28942000" />
+    <option name="totallyTimeSpent" value="30203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="23" width="1233" height="777" extended-state="6" />
@@ -584,7 +584,7 @@
     <entry file="file://$PROJECT_DIR$/resume.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="174" column="50" lean-forward="false" selection-start-line="174" selection-start-column="50" selection-end-line="174" selection-end-column="50" />
+          <caret line="178" column="73" lean-forward="false" selection-start-line="178" selection-start-column="73" selection-end-line="178" selection-end-column="73" />
           <folding />
         </state>
       </provider>
