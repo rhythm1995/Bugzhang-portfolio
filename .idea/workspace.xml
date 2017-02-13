@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6d6c2a2-08e1-41a4-bd89-e0c10d31c3b8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume(print).html" afterPath="$PROJECT_DIR$/resume(print).html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume.html" afterPath="$PROJECT_DIR$/resume.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,8 +36,8 @@
       <file leaf-file-name="resume(print).html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume(print).html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3059">
-              <caret line="161" column="25" lean-forward="false" selection-start-line="161" selection-start-column="25" selection-end-line="161" selection-end-column="25" />
+            <state relative-caret-position="178">
+              <caret line="167" column="0" lean-forward="false" selection-start-line="167" selection-start-column="0" selection-end-line="178" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -47,11 +48,10 @@
       <file leaf-file-name="resume.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="67" column="283" lean-forward="false" selection-start-line="67" selection-start-column="283" selection-end-line="67" selection-end-column="283" />
+            <state relative-caret-position="417">
+              <caret line="188" column="27" lean-forward="true" selection-start-line="188" selection-start-column="27" selection-end-line="188" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#imp#0;n#p#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#t#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,6 +157,7 @@
       <find>作品</find>
       <find>下载</find>
       <find>.rhythm1995</find>
+      <find>pd</find>
     </findStrings>
     <replaceStrings>
       <replace>3b88f0</replace>
@@ -183,7 +184,6 @@
         <option value="$PROJECT_DIR$/assets/js/Chart.js" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/resume的副本.html" />
-        <option value="$PROJECT_DIR$/resume(print).html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/8-coolclass.html" />
         <option value="$PROJECT_DIR$/1-legou.html" />
@@ -193,6 +193,7 @@
         <option value="$PROJECT_DIR$/5-cafego.html" />
         <option value="$PROJECT_DIR$/6-applelab.html" />
         <option value="$PROJECT_DIR$/7-Insurance.html" />
+        <option value="$PROJECT_DIR$/resume(print).html" />
         <option value="$PROJECT_DIR$/resume.html" />
       </list>
     </option>
@@ -385,12 +386,12 @@
       <updated>1486694142811</updated>
       <workItem from="1486694145716" duration="39113000" />
       <workItem from="1486874947614" duration="894000" />
-      <workItem from="1486954917857" duration="73000" />
+      <workItem from="1486954917857" duration="1050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40080000" />
+    <option name="totallyTimeSpent" value="41057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="23" width="1234" height="777" extended-state="6" />
@@ -451,7 +452,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#a#0;n#imp#0;n#p#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#t#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -538,7 +538,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#a#0;n#imp#0;n#p#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#t#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -751,8 +750,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resume(print).html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3059">
-          <caret line="161" column="25" lean-forward="false" selection-start-line="161" selection-start-column="25" selection-end-line="161" selection-end-column="25" />
+        <state relative-caret-position="178">
+          <caret line="167" column="0" lean-forward="false" selection-start-line="167" selection-start-column="0" selection-end-line="178" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -761,11 +760,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="67" column="283" lean-forward="false" selection-start-line="67" selection-start-column="283" selection-end-line="67" selection-end-column="283" />
+        <state relative-caret-position="417">
+          <caret line="188" column="27" lean-forward="true" selection-start-line="188" selection-start-column="27" selection-end-line="188" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#a#0;n#imp#0;n#p#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#t#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
